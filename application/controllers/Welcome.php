@@ -30,7 +30,7 @@ class Welcome extends CI_Controller {
     }
 
     public function another_page() {
-        echo "You have reached another page!";git init
+        echo "You have reached another page!";
 
     }
 }
